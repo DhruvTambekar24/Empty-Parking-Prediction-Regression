@@ -1,0 +1,1001 @@
+Time_of_Day,Day_of_Week,Season,Event,Parking_Slot_Empty
+23:30,Thursday,Fall,New Year,0.6
+03:30,Saturday,Fall,Local Festival,0.05
+03:45,Saturday,Fall,New Year,0.9
+03:00,Thursday,Spring,No Event,0.6
+08:30,Saturday,Summer,Wedding,0.05
+18:30,Thursday,Summer,Wedding,0.1
+14:30,Monday,Winter,Wedding,0.6
+05:00,Friday,Winter,Christmas,0.75
+13:15,Tuesday,Winter,Diwali,0.6
+18:30,Thursday,Winter,New Year,0.1
+07:15,Tuesday,Summer,Wedding,0.75
+11:45,Monday,Fall,No Event,0.75
+08:30,Friday,Fall,Wedding,0.1
+21:15,Monday,Spring,Local Festival,0.1
+09:15,Saturday,Fall,Diwali,0.05
+07:30,Tuesday,Summer,Diwali,0.1
+19:15,Sunday,Summer,New Year,0.05
+05:45,Friday,Summer,Christmas,0.1
+12:00,Saturday,Spring,New Year,0.015
+23:45,Friday,Winter,Wedding,0.1
+07:45,Saturday,Fall,Local Festival,0.05
+13:30,Monday,Summer,No Event,0.5
+19:30,Thursday,Summer,New Year,0.1
+14:15,Tuesday,Winter,Christmas,0.1
+00:30,Wednesday,Summer,New Year,0.75
+19:45,Wednesday,Fall,Diwali,0.6
+17:00,Monday,Spring,Wedding,0.8
+21:00,Tuesday,Summer,Wedding,0.1
+02:15,Tuesday,Fall,Wedding,0.1
+20:30,Monday,Summer,Wedding,0.75
+06:00,Tuesday,Winter,Wedding,0.75
+16:45,Thursday,Summer,Wedding,0.8
+15:00,Monday,Summer,No Event,0.9
+07:00,Thursday,Spring,Christmas,0.1
+04:30,Tuesday,Winter,Wedding,0.9
+10:30,Monday,Winter,Christmas,0.1
+16:15,Tuesday,Spring,Local Festival,0.1
+18:15,Monday,Summer,Wedding,0.1
+15:00,Tuesday,Fall,New Year,0.1
+10:30,Thursday,Winter,Wedding,0.1
+06:00,Sunday,Winter,Diwali,0.6
+04:45,Thursday,Summer,No Event,0.5
+11:45,Tuesday,Summer,New Year,0.9
+20:30,Monday,Winter,New Year,0.1
+21:30,Wednesday,Summer,Diwali,0.1
+05:45,Thursday,Fall,Wedding,0.6
+02:30,Thursday,Winter,No Event,0.5
+13:30,Saturday,Fall,New Year,0.05
+06:45,Wednesday,Fall,No Event,0.5
+17:00,Tuesday,Summer,New Year,0.1
+15:30,Sunday,Fall,Wedding,0.9
+14:30,Monday,Summer,Local Festival,0.1
+01:00,Saturday,Spring,New Year,0.05
+12:30,Tuesday,Summer,Local Festival,0.1
+05:00,Friday,Fall,New Year,0.1
+02:45,Sunday,Spring,Christmas,0.75
+12:15,Thursday,Summer,Wedding,0.75
+00:45,Friday,Fall,Diwali,0.6
+10:15,Thursday,Winter,Local Festival,0.1
+20:45,Thursday,Winter,Diwali,0.1
+09:15,Friday,Summer,Wedding,0.6
+06:00,Sunday,Summer,Diwali,0.9
+03:15,Friday,Winter,Wedding,0.1
+18:30,Tuesday,Fall,Diwali,0.1
+07:45,Saturday,Fall,Local Festival,0.9
+02:30,Saturday,Fall,Christmas,0.05
+15:00,Friday,Summer,Diwali,0.8
+04:15,Tuesday,Spring,Local Festival,0.6
+06:30,Saturday,Spring,New Year,0.9
+13:30,Tuesday,Spring,Wedding,0.1
+13:15,Tuesday,Spring,No Event,0.75
+20:15,Thursday,Spring,No Event,0.9
+21:30,Saturday,Summer,Wedding,0.05
+18:30,Saturday,Summer,Christmas,0.75
+05:00,Thursday,Spring,Diwali,0.6
+10:45,Friday,Summer,Christmas,0.1
+01:00,Thursday,Summer,No Event,0.5
+21:30,Saturday,Spring,Local Festival,0.8
+10:00,Saturday,Fall,Wedding,0.75
+14:30,Sunday,Summer,Wedding,0.6
+22:00,Friday,Fall,Christmas,0.6
+13:15,Thursday,Summer,Local Festival,0.1
+18:15,Monday,Summer,Christmas,0.6
+05:15,Monday,Spring,Diwali,0.9
+20:30,Friday,Summer,New Year,0.1
+16:00,Thursday,Winter,Local Festival,0.6
+15:45,Thursday,Winter,New Year,0.1
+17:30,Tuesday,Spring,Diwali,0.6
+00:45,Saturday,Fall,New Year,0.05
+16:00,Wednesday,Fall,No Event,0.9
+03:30,Sunday,Fall,New Year,0.05
+18:45,Friday,Winter,Diwali,0.75
+05:15,Wednesday,Fall,New Year,0.1
+21:15,Wednesday,Fall,Wedding,0.1
+11:30,Friday,Spring,Christmas,0.1
+20:00,Thursday,Fall,No Event,0.15
+23:00,Friday,Winter,Wedding,0.1
+11:15,Wednesday,Winter,Wedding,0.6
+03:15,Saturday,Winter,Diwali,0.8
+12:15,Sunday,Spring,Christmas,0.05
+04:45,Sunday,Spring,Christmas,0.05
+12:15,Saturday,Summer,Local Festival,0.05
+08:00,Saturday,Fall,No Event,0.8
+14:30,Thursday,Spring,Diwali,0.1
+10:30,Monday,Winter,No Event,0.5
+19:30,Friday,Winter,Local Festival,0.1
+02:45,Sunday,Spring,New Year,0.05
+09:45,Saturday,Spring,Wedding,0.05
+04:45,Friday,Spring,No Event,0.6
+23:15,Sunday,Summer,Wedding,0.75
+09:15,Saturday,Winter,Diwali,0.9
+00:30,Sunday,Summer,New Year,0.6
+06:45,Thursday,Summer,Diwali,0.1
+13:45,Monday,Fall,New Year,0.1
+22:15,Monday,Winter,New Year,0.1
+23:15,Saturday,Winter,Wedding,0.05
+03:00,Sunday,Spring,Diwali,0.05
+19:00,Thursday,Spring,Diwali,0.03
+16:15,Tuesday,Fall,No Event,0.5
+09:00,Friday,Summer,Diwali,0.9
+12:00,Friday,Spring,No Event,0.15
+16:15,Wednesday,Spring,Christmas,0.8
+08:45,Thursday,Winter,Christmas,0.1
+13:15,Sunday,Winter,Christmas,0.05
+06:15,Wednesday,Spring,Local Festival,0.1
+18:30,Saturday,Winter,Diwali,0.05
+17:45,Sunday,Fall,Local Festival,0.6
+09:45,Wednesday,Spring,Diwali,0.1
+10:30,Monday,Winter,No Event,0.5
+05:15,Friday,Fall,Local Festival,0.1
+04:45,Sunday,Winter,Local Festival,0.05
+01:45,Wednesday,Winter,Local Festival,0.1
+07:00,Monday,Winter,New Year,0.6
+09:45,Thursday,Spring,No Event,0.75
+22:15,Wednesday,Summer,Christmas,0.75
+07:15,Saturday,Winter,No Event,0.25
+20:00,Saturday,Fall,New Year,0.6
+20:45,Saturday,Spring,Diwali,0.6
+13:30,Sunday,Spring,No Event,0.75
+03:45,Friday,Fall,Local Festival,0.1
+11:15,Wednesday,Winter,Christmas,0.8
+15:15,Thursday,Summer,Christmas,0.9
+01:30,Wednesday,Winter,Diwali,0.75
+19:45,Friday,Fall,No Event,0.5
+11:00,Monday,Spring,New Year,0.1
+14:30,Friday,Summer,Diwali,0.9
+13:45,Saturday,Spring,No Event,0.75
+11:45,Sunday,Fall,Wedding,0.05
+06:30,Monday,Winter,Christmas,0.1
+13:00,Sunday,Summer,New Year,0.75
+21:30,Saturday,Spring,Local Festival,0.05
+21:45,Tuesday,Spring,New Year,0.1
+18:00,Friday,Spring,Local Festival,0.1
+08:30,Friday,Winter,New Year,0.1
+12:30,Thursday,Summer,Christmas,0.1
+20:45,Wednesday,Winter,Local Festival,0.1
+09:00,Monday,Winter,No Event,0.9
+20:00,Sunday,Winter,Local Festival,0.015
+23:30,Monday,Fall,Diwali,0.1
+14:00,Thursday,Fall,No Event,0.75
+01:45,Thursday,Fall,Diwali,0.1
+19:30,Sunday,Summer,New Year,0.05
+23:30,Wednesday,Winter,No Event,0.5
+23:15,Sunday,Winter,New Year,0.05
+04:45,Sunday,Fall,Wedding,0.05
+13:00,Saturday,Winter,New Year,0.6
+02:45,Wednesday,Winter,New Year,0.6
+12:00,Friday,Spring,Diwali,0.03
+04:00,Saturday,Winter,Local Festival,0.05
+15:45,Tuesday,Spring,Wedding,0.9
+10:15,Wednesday,Winter,New Year,0.8
+23:15,Thursday,Summer,New Year,0.1
+07:00,Saturday,Fall,Wedding,0.05
+04:30,Wednesday,Spring,Wedding,0.8
+02:30,Monday,Fall,No Event,0.9
+12:15,Sunday,Spring,Diwali,0.75
+17:30,Tuesday,Spring,Wedding,0.1
+14:15,Friday,Spring,Wedding,0.1
+08:15,Sunday,Summer,Christmas,0.05
+04:45,Monday,Winter,Local Festival,0.1
+12:15,Monday,Spring,Wedding,0.1
+21:45,Tuesday,Summer,Diwali,0.1
+02:15,Friday,Spring,Local Festival,0.75
+07:45,Thursday,Winter,Local Festival,0.1
+12:45,Saturday,Spring,New Year,0.05
+03:30,Friday,Summer,New Year,0.75
+20:45,Wednesday,Winter,New Year,0.9
+00:30,Monday,Summer,New Year,0.1
+09:00,Wednesday,Winter,Christmas,0.1
+09:45,Thursday,Winter,Wedding,0.1
+17:45,Wednesday,Fall,New Year,0.1
+09:45,Friday,Fall,No Event,0.5
+13:45,Wednesday,Fall,New Year,0.1
+05:30,Thursday,Winter,Wedding,0.75
+02:30,Thursday,Spring,New Year,0.9
+15:45,Thursday,Summer,Christmas,0.1
+01:45,Friday,Summer,Diwali,0.1
+23:00,Thursday,Summer,Diwali,0.6
+23:15,Monday,Fall,Wedding,0.1
+13:45,Sunday,Winter,Diwali,0.75
+14:45,Thursday,Fall,Diwali,0.9
+02:15,Wednesday,Spring,No Event,0.5
+09:30,Saturday,Winter,Wedding,0.05
+06:45,Wednesday,Summer,Wedding,0.1
+12:00,Saturday,Fall,Diwali,0.015
+08:45,Wednesday,Fall,Diwali,0.75
+03:00,Friday,Spring,Diwali,0.1
+23:45,Wednesday,Spring,Local Festival,0.1
+08:45,Friday,Fall,Christmas,0.1
+06:15,Friday,Spring,New Year,0.9
+21:15,Thursday,Summer,Christmas,0.8
+00:45,Monday,Spring,Wedding,0.9
+23:30,Saturday,Spring,No Event,0.8
+20:15,Thursday,Fall,New Year,0.8
+15:45,Thursday,Fall,No Event,0.9
+09:15,Sunday,Winter,Local Festival,0.05
+21:45,Friday,Winter,Wedding,0.6
+21:30,Friday,Fall,Local Festival,0.1
+05:15,Saturday,Spring,Wedding,0.05
+00:15,Wednesday,Spring,No Event,0.9
+07:30,Wednesday,Winter,No Event,0.5
+02:30,Thursday,Winter,No Event,0.8
+22:45,Tuesday,Winter,Wedding,0.75
+11:15,Tuesday,Summer,Diwali,0.1
+23:45,Wednesday,Summer,No Event,0.5
+15:15,Tuesday,Winter,Local Festival,0.1
+17:00,Sunday,Spring,New Year,0.05
+15:45,Wednesday,Winter,Wedding,0.1
+02:15,Friday,Summer,Local Festival,0.6
+09:45,Thursday,Spring,Christmas,0.6
+05:45,Monday,Summer,Christmas,0.1
+10:45,Thursday,Spring,New Year,0.1
+14:45,Wednesday,Summer,Diwali,0.8
+15:15,Sunday,Spring,No Event,0.25
+21:30,Wednesday,Spring,Wedding,0.1
+04:00,Thursday,Spring,Local Festival,0.6
+16:00,Sunday,Spring,No Event,0.8
+23:30,Sunday,Fall,Local Festival,0.05
+23:30,Sunday,Summer,Wedding,0.9
+14:00,Saturday,Summer,Christmas,0.8
+13:30,Wednesday,Fall,No Event,0.75
+13:00,Tuesday,Spring,New Year,0.03
+13:45,Tuesday,Spring,Diwali,0.1
+02:00,Wednesday,Summer,New Year,0.1
+05:15,Wednesday,Fall,Diwali,0.1
+03:00,Saturday,Spring,Local Festival,0.9
+22:00,Tuesday,Spring,No Event,0.5
+11:45,Wednesday,Spring,No Event,0.5
+04:15,Wednesday,Winter,Diwali,0.6
+18:45,Saturday,Fall,Christmas,0.05
+09:45,Saturday,Spring,Wedding,0.6
+04:00,Thursday,Winter,New Year,0.9
+03:30,Saturday,Fall,Local Festival,0.05
+03:30,Monday,Spring,New Year,0.1
+19:30,Tuesday,Summer,New Year,0.1
+15:30,Thursday,Winter,Local Festival,0.75
+09:30,Monday,Winter,Local Festival,0.1
+03:00,Wednesday,Spring,No Event,0.9
+20:00,Wednesday,Spring,New Year,0.03
+07:45,Thursday,Winter,Wedding,0.1
+02:00,Saturday,Summer,Wedding,0.05
+09:45,Sunday,Summer,Diwali,0.9
+04:45,Sunday,Fall,Local Festival,0.6
+22:15,Wednesday,Spring,No Event,0.9
+22:30,Sunday,Summer,Wedding,0.05
+21:00,Friday,Fall,Christmas,0.1
+20:15,Thursday,Summer,No Event,0.5
+19:00,Monday,Spring,No Event,0.75
+19:45,Thursday,Fall,Wedding,0.8
+18:00,Tuesday,Fall,Christmas,0.1
+15:30,Saturday,Fall,Diwali,0.05
+18:45,Saturday,Summer,Wedding,0.05
+10:45,Thursday,Spring,Christmas,0.1
+09:15,Wednesday,Fall,No Event,0.5
+20:30,Wednesday,Winter,Christmas,0.1
+14:45,Friday,Spring,No Event,0.5
+17:30,Friday,Winter,Wedding,0.9
+11:45,Saturday,Winter,Local Festival,0.75
+04:15,Friday,Fall,Wedding,0.1
+03:45,Monday,Fall,New Year,0.8
+13:30,Friday,Summer,New Year,0.1
+09:30,Monday,Summer,New Year,0.1
+16:45,Friday,Summer,Wedding,0.9
+14:30,Saturday,Spring,Diwali,0.75
+22:00,Saturday,Summer,Wedding,0.05
+23:45,Monday,Winter,Local Festival,0.1
+15:15,Thursday,Summer,Christmas,0.1
+03:00,Saturday,Fall,Wedding,0.05
+20:00,Thursday,Summer,Wedding,0.6
+01:15,Wednesday,Spring,No Event,0.5
+20:30,Monday,Spring,No Event,0.5
+19:00,Sunday,Winter,No Event,0.6
+14:45,Saturday,Spring,Wedding,0.9
+22:15,Tuesday,Summer,Diwali,0.8
+03:15,Wednesday,Fall,Christmas,0.6
+23:30,Thursday,Spring,Christmas,0.1
+13:15,Saturday,Winter,Local Festival,0.8
+00:45,Monday,Summer,Diwali,0.1
+09:30,Sunday,Winter,Diwali,0.8
+17:45,Friday,Spring,Christmas,0.1
+06:00,Sunday,Spring,New Year,0.8
+19:00,Tuesday,Winter,No Event,0.9
+07:45,Thursday,Summer,No Event,0.9
+14:30,Wednesday,Spring,Christmas,0.1
+15:30,Sunday,Fall,Diwali,0.6
+09:15,Monday,Spring,Local Festival,0.1
+22:45,Tuesday,Summer,New Year,0.1
+13:00,Monday,Spring,Christmas,0.8
+23:15,Saturday,Winter,No Event,0.75
+16:30,Friday,Spring,Wedding,0.6
+06:45,Wednesday,Spring,Diwali,0.1
+00:30,Monday,Summer,Wedding,0.6
+19:45,Thursday,Winter,Local Festival,0.9
+05:15,Saturday,Summer,Christmas,0.6
+23:45,Saturday,Spring,No Event,0.6
+09:15,Wednesday,Fall,New Year,0.1
+17:45,Saturday,Spring,Wedding,0.8
+17:45,Thursday,Summer,New Year,0.1
+15:15,Monday,Fall,Local Festival,0.6
+14:00,Wednesday,Summer,No Event,0.5
+01:15,Saturday,Summer,Wedding,0.8
+19:15,Saturday,Winter,Local Festival,0.8
+07:45,Thursday,Fall,New Year,0.1
+02:15,Friday,Spring,New Year,0.6
+00:30,Friday,Summer,Wedding,0.1
+14:30,Sunday,Spring,No Event,0.75
+18:45,Saturday,Winter,New Year,0.05
+12:00,Monday,Winter,Christmas,0.03
+14:30,Wednesday,Fall,Local Festival,0.9
+07:30,Saturday,Winter,Wedding,0.75
+23:00,Tuesday,Winter,Diwali,0.9
+17:00,Wednesday,Spring,Diwali,0.1
+15:15,Sunday,Winter,No Event,0.25
+12:45,Friday,Winter,Christmas,0.9
+22:00,Saturday,Summer,New Year,0.9
+10:00,Thursday,Winter,Diwali,0.9
+07:30,Tuesday,Summer,No Event,0.8
+21:00,Saturday,Winter,Local Festival,0.05
+20:45,Sunday,Winter,Christmas,0.05
+05:15,Monday,Fall,Christmas,0.1
+00:45,Tuesday,Fall,No Event,0.5
+03:00,Sunday,Summer,No Event,0.9
+11:00,Saturday,Winter,New Year,0.05
+10:15,Monday,Spring,No Event,0.5
+12:00,Tuesday,Fall,New Year,0.03
+04:45,Monday,Spring,New Year,0.6
+19:00,Monday,Fall,Wedding,0.03
+20:00,Tuesday,Fall,Christmas,0.8
+13:15,Tuesday,Winter,Local Festival,0.1
+08:45,Monday,Fall,Christmas,0.8
+00:00,Sunday,Spring,Christmas,0.05
+03:30,Friday,Fall,Wedding,0.1
+19:00,Tuesday,Summer,New Year,0.03
+04:00,Saturday,Winter,New Year,0.8
+05:45,Wednesday,Winter,No Event,0.75
+14:15,Thursday,Summer,Wedding,0.75
+17:45,Monday,Summer,No Event,0.5
+22:30,Monday,Summer,Wedding,0.1
+05:30,Thursday,Fall,No Event,0.75
+11:15,Friday,Winter,Diwali,0.1
+17:45,Thursday,Summer,Christmas,0.75
+01:45,Tuesday,Fall,Christmas,0.1
+14:30,Thursday,Summer,Local Festival,0.8
+22:15,Monday,Spring,New Year,0.1
+14:30,Thursday,Spring,Local Festival,0.75
+03:00,Wednesday,Winter,Diwali,0.9
+09:30,Saturday,Fall,Local Festival,0.9
+06:45,Tuesday,Spring,Christmas,0.1
+22:00,Thursday,Spring,New Year,0.75
+15:00,Monday,Fall,Diwali,0.1
+03:45,Sunday,Summer,Christmas,0.05
+00:15,Saturday,Fall,No Event,0.25
+20:15,Tuesday,Summer,Wedding,0.1
+04:00,Monday,Spring,Diwali,0.9
+07:15,Friday,Spring,New Year,0.6
+03:00,Wednesday,Spring,Local Festival,0.1
+23:45,Friday,Winter,Local Festival,0.1
+23:00,Wednesday,Winter,Diwali,0.1
+23:15,Thursday,Winter,New Year,0.1
+20:15,Tuesday,Fall,Diwali,0.1
+03:00,Thursday,Spring,New Year,0.75
+10:30,Wednesday,Spring,Local Festival,0.1
+21:00,Wednesday,Fall,Christmas,0.1
+23:15,Wednesday,Winter,No Event,0.9
+05:00,Saturday,Fall,Christmas,0.75
+13:30,Monday,Winter,No Event,0.6
+20:00,Tuesday,Spring,Local Festival,0.03
+09:45,Thursday,Summer,Christmas,0.1
+20:30,Thursday,Winter,Christmas,0.1
+03:30,Friday,Spring,Diwali,0.1
+18:00,Wednesday,Spring,Wedding,0.1
+12:45,Sunday,Summer,Local Festival,0.8
+18:15,Wednesday,Spring,New Year,0.1
+23:30,Wednesday,Spring,Local Festival,0.1
+13:00,Sunday,Winter,New Year,0.015
+21:30,Thursday,Winter,New Year,0.1
+12:45,Friday,Summer,No Event,0.5
+07:15,Monday,Summer,New Year,0.75
+08:00,Sunday,Spring,New Year,0.05
+14:00,Saturday,Winter,Diwali,0.05
+12:45,Tuesday,Summer,Christmas,0.1
+02:00,Sunday,Summer,Local Festival,0.6
+13:15,Monday,Fall,Local Festival,0.1
+00:00,Thursday,Summer,New Year,0.1
+10:45,Saturday,Spring,Wedding,0.05
+18:30,Saturday,Winter,Local Festival,0.05
+19:45,Saturday,Summer,New Year,0.05
+02:00,Wednesday,Fall,No Event,0.9
+07:45,Tuesday,Winter,No Event,0.6
+03:30,Thursday,Summer,No Event,0.5
+02:45,Thursday,Fall,New Year,0.1
+19:15,Saturday,Summer,Diwali,0.9
+14:00,Thursday,Winter,Wedding,0.1
+01:45,Tuesday,Winter,New Year,0.1
+17:45,Tuesday,Winter,Diwali,0.6
+06:30,Friday,Spring,Diwali,0.1
+15:15,Sunday,Summer,Local Festival,0.05
+02:45,Sunday,Spring,New Year,0.05
+16:00,Friday,Winter,New Year,0.1
+10:15,Monday,Fall,Diwali,0.1
+15:15,Sunday,Summer,Diwali,0.05
+02:30,Tuesday,Spring,Diwali,0.1
+10:30,Tuesday,Summer,Local Festival,0.1
+23:30,Sunday,Fall,New Year,0.6
+04:00,Tuesday,Spring,Diwali,0.1
+07:45,Friday,Winter,No Event,0.75
+23:00,Saturday,Spring,New Year,0.8
+21:00,Saturday,Summer,Local Festival,0.05
+21:00,Thursday,Summer,No Event,0.6
+09:45,Saturday,Summer,Christmas,0.05
+05:30,Wednesday,Summer,New Year,0.1
+13:45,Friday,Winter,Christmas,0.1
+01:15,Tuesday,Spring,Diwali,0.9
+21:15,Sunday,Winter,Local Festival,0.6
+12:15,Saturday,Winter,Diwali,0.05
+09:00,Friday,Winter,Local Festival,0.8
+15:45,Saturday,Summer,Wedding,0.8
+13:15,Monday,Summer,Diwali,0.1
+17:45,Tuesday,Summer,Christmas,0.1
+12:00,Monday,Spring,Local Festival,0.9
+02:30,Tuesday,Fall,Diwali,0.1
+21:45,Friday,Summer,New Year,0.1
+12:00,Thursday,Spring,Local Festival,0.75
+05:00,Saturday,Summer,Local Festival,0.8
+16:15,Saturday,Summer,Diwali,0.05
+15:30,Wednesday,Winter,Wedding,0.75
+20:30,Sunday,Winter,Diwali,0.05
+06:45,Monday,Winter,Christmas,0.1
+04:00,Saturday,Spring,Christmas,0.6
+01:15,Friday,Fall,Local Festival,0.1
+04:30,Thursday,Fall,Local Festival,0.1
+13:45,Sunday,Spring,Diwali,0.9
+06:45,Friday,Summer,Christmas,0.6
+16:15,Monday,Spring,Christmas,0.9
+09:15,Wednesday,Summer,Wedding,0.75
+09:00,Saturday,Spring,New Year,0.05
+16:45,Friday,Spring,Wedding,0.75
+21:15,Sunday,Spring,No Event,0.25
+22:15,Tuesday,Fall,Wedding,0.1
+12:00,Thursday,Winter,Diwali,0.8
+10:30,Sunday,Spring,New Year,0.05
+08:45,Friday,Fall,Diwali,0.1
+14:15,Thursday,Winter,No Event,0.5
+03:00,Saturday,Winter,New Year,0.05
+12:45,Tuesday,Spring,Local Festival,0.1
+14:15,Wednesday,Summer,Christmas,0.9
+07:45,Sunday,Summer,Wedding,0.05
+20:00,Wednesday,Summer,Diwali,0.03
+14:45,Tuesday,Spring,No Event,0.6
+20:30,Thursday,Summer,Christmas,0.1
+14:15,Saturday,Fall,Wedding,0.8
+13:45,Friday,Fall,Christmas,0.6
+06:45,Tuesday,Fall,Wedding,0.1
+00:00,Monday,Fall,Local Festival,0.1
+10:15,Thursday,Winter,New Year,0.1
+20:15,Wednesday,Fall,Christmas,0.1
+11:45,Sunday,Summer,Christmas,0.05
+09:45,Tuesday,Spring,Christmas,0.1
+15:30,Wednesday,Summer,New Year,0.1
+18:45,Thursday,Fall,No Event,0.5
+17:45,Wednesday,Winter,Wedding,0.75
+21:45,Tuesday,Fall,Local Festival,0.75
+19:45,Thursday,Spring,Christmas,0.9
+00:45,Monday,Summer,New Year,0.1
+09:15,Tuesday,Spring,No Event,0.6
+06:30,Friday,Spring,Wedding,0.6
+02:00,Saturday,Spring,New Year,0.05
+03:45,Tuesday,Summer,Local Festival,0.1
+13:45,Thursday,Fall,Local Festival,0.9
+18:45,Sunday,Spring,Wedding,0.9
+07:30,Saturday,Summer,Christmas,0.05
+21:45,Tuesday,Winter,Local Festival,0.1
+03:15,Monday,Summer,No Event,0.5
+06:00,Sunday,Winter,New Year,0.6
+08:15,Monday,Summer,No Event,0.5
+16:30,Friday,Fall,Christmas,0.1
+05:45,Sunday,Spring,No Event,0.25
+18:00,Wednesday,Fall,No Event,0.5
+06:15,Sunday,Summer,Diwali,0.75
+04:45,Saturday,Spring,No Event,0.25
+15:45,Sunday,Winter,Wedding,0.9
+02:15,Thursday,Summer,New Year,0.1
+20:30,Thursday,Spring,Diwali,0.6
+16:30,Wednesday,Winter,New Year,0.1
+05:45,Sunday,Winter,New Year,0.6
+01:00,Monday,Fall,Christmas,0.1
+16:30,Monday,Summer,Christmas,0.1
+14:15,Tuesday,Winter,Diwali,0.1
+06:30,Friday,Spring,Local Festival,0.1
+19:45,Saturday,Winter,Christmas,0.6
+03:30,Friday,Winter,Christmas,0.6
+08:30,Sunday,Fall,Christmas,0.05
+18:45,Friday,Fall,New Year,0.1
+13:00,Tuesday,Spring,Diwali,0.03
+10:45,Friday,Fall,New Year,0.1
+06:15,Wednesday,Winter,Wedding,0.1
+11:30,Tuesday,Winter,New Year,0.1
+08:15,Wednesday,Fall,Wedding,0.8
+21:30,Sunday,Winter,No Event,0.25
+23:30,Tuesday,Winter,No Event,0.75
+12:15,Sunday,Spring,Wedding,0.05
+20:45,Sunday,Fall,Wedding,0.6
+02:45,Friday,Winter,New Year,0.9
+21:30,Wednesday,Fall,Wedding,0.1
+00:45,Sunday,Spring,Diwali,0.6
+21:30,Wednesday,Fall,No Event,0.6
+11:45,Wednesday,Winter,No Event,0.9
+13:30,Tuesday,Fall,Local Festival,0.1
+00:00,Thursday,Winter,Wedding,0.6
+22:00,Friday,Winter,Christmas,0.8
+16:15,Sunday,Winter,Christmas,0.8
+07:15,Wednesday,Spring,Wedding,0.1
+00:30,Saturday,Fall,Diwali,0.8
+05:00,Thursday,Spring,Christmas,0.1
+22:00,Sunday,Fall,Local Festival,0.8
+20:45,Saturday,Spring,Wedding,0.8
+12:00,Friday,Summer,Diwali,0.8
+21:15,Friday,Winter,Diwali,0.1
+21:00,Wednesday,Winter,New Year,0.1
+15:15,Wednesday,Spring,Diwali,0.6
+09:15,Sunday,Summer,Christmas,0.05
+03:30,Tuesday,Winter,Christmas,0.75
+12:45,Thursday,Fall,Wedding,0.9
+19:30,Sunday,Spring,Wedding,0.05
+11:15,Thursday,Winter,Diwali,0.8
+06:00,Wednesday,Winter,Local Festival,0.1
+05:00,Friday,Spring,No Event,0.75
+21:45,Wednesday,Spring,New Year,0.6
+01:00,Friday,Fall,No Event,0.75
+17:15,Sunday,Fall,Diwali,0.05
+11:30,Friday,Winter,Diwali,0.6
+21:30,Wednesday,Winter,No Event,0.5
+16:45,Monday,Spring,New Year,0.75
+22:30,Thursday,Winter,No Event,0.5
+04:15,Saturday,Winter,Wedding,0.75
+05:00,Friday,Spring,Christmas,0.9
+22:45,Friday,Winter,Local Festival,0.1
+21:15,Monday,Winter,Wedding,0.9
+05:30,Sunday,Summer,Christmas,0.05
+15:45,Sunday,Fall,Local Festival,0.05
+16:30,Sunday,Spring,Local Festival,0.05
+09:45,Saturday,Summer,Local Festival,0.75
+02:15,Tuesday,Fall,Diwali,0.75
+22:00,Monday,Fall,Local Festival,0.1
+12:45,Saturday,Fall,New Year,0.05
+17:45,Monday,Summer,No Event,0.5
+18:30,Friday,Summer,New Year,0.1
+15:00,Thursday,Fall,No Event,0.5
+15:45,Monday,Winter,Wedding,0.1
+01:00,Tuesday,Winter,Wedding,0.1
+13:00,Wednesday,Summer,No Event,0.8
+13:30,Saturday,Summer,New Year,0.9
+09:00,Monday,Summer,No Event,0.5
+13:45,Monday,Fall,Local Festival,0.8
+14:30,Tuesday,Winter,Diwali,0.1
+23:00,Thursday,Summer,Wedding,0.75
+17:00,Monday,Summer,Diwali,0.1
+18:00,Monday,Spring,Local Festival,0.1
+14:30,Thursday,Fall,Local Festival,0.8
+00:15,Tuesday,Spring,Wedding,0.1
+16:00,Saturday,Winter,Wedding,0.05
+14:45,Saturday,Spring,Local Festival,0.75
+12:30,Monday,Spring,Christmas,0.1
+07:15,Thursday,Spring,Diwali,0.75
+02:30,Monday,Fall,Diwali,0.6
+22:45,Sunday,Winter,Christmas,0.05
+18:45,Wednesday,Spring,New Year,0.6
+09:30,Saturday,Fall,Diwali,0.6
+22:15,Sunday,Winter,No Event,0.6
+19:00,Friday,Summer,Local Festival,0.03
+17:45,Wednesday,Spring,Local Festival,0.75
+15:30,Monday,Winter,Christmas,0.1
+15:45,Tuesday,Spring,Diwali,0.75
+15:00,Saturday,Summer,New Year,0.05
+13:15,Friday,Winter,Diwali,0.9
+22:45,Wednesday,Fall,Local Festival,0.1
+23:15,Saturday,Winter,Wedding,0.8
+18:00,Thursday,Fall,No Event,0.5
+23:30,Tuesday,Winter,Christmas,0.1
+14:15,Wednesday,Fall,Wedding,0.1
+21:00,Thursday,Summer,New Year,0.9
+13:45,Sunday,Summer,Wedding,0.8
+08:15,Monday,Summer,Wedding,0.1
+07:30,Thursday,Winter,New Year,0.1
+12:45,Wednesday,Summer,Wedding,0.6
+22:00,Wednesday,Spring,Christmas,0.1
+18:45,Sunday,Summer,Local Festival,0.8
+00:00,Monday,Fall,Diwali,0.8
+13:30,Thursday,Fall,Wedding,0.1
+05:15,Thursday,Fall,Christmas,0.1
+09:45,Monday,Winter,Diwali,0.1
+00:00,Thursday,Spring,Diwali,0.1
+16:00,Saturday,Summer,Wedding,0.05
+15:30,Monday,Spring,Christmas,0.1
+13:15,Tuesday,Spring,Local Festival,0.1
+10:15,Wednesday,Fall,Wedding,0.1
+05:00,Tuesday,Fall,New Year,0.1
+19:30,Saturday,Fall,Diwali,0.05
+20:00,Sunday,Winter,Wedding,0.015
+05:15,Saturday,Spring,Diwali,0.8
+09:15,Friday,Spring,Christmas,0.1
+19:45,Friday,Winter,No Event,0.6
+01:45,Friday,Winter,Wedding,0.1
+15:15,Monday,Winter,Local Festival,0.75
+11:30,Thursday,Spring,Wedding,0.9
+04:00,Saturday,Spring,Diwali,0.05
+04:00,Tuesday,Fall,Christmas,0.1
+22:15,Sunday,Fall,New Year,0.05
+03:00,Tuesday,Spring,Local Festival,0.75
+04:00,Tuesday,Fall,Christmas,0.1
+09:15,Tuesday,Winter,Wedding,0.1
+20:00,Sunday,Summer,New Year,0.6
+19:15,Friday,Fall,Christmas,0.1
+11:00,Tuesday,Spring,No Event,0.5
+01:15,Sunday,Fall,Local Festival,0.05
+08:30,Sunday,Fall,Diwali,0.05
+03:15,Thursday,Fall,Christmas,0.75
+17:45,Sunday,Summer,Christmas,0.8
+15:00,Friday,Winter,No Event,0.5
+03:30,Tuesday,Spring,Wedding,0.75
+13:15,Sunday,Summer,Local Festival,0.05
+06:30,Monday,Spring,Local Festival,0.9
+03:00,Sunday,Spring,Diwali,0.05
+07:30,Wednesday,Spring,Christmas,0.1
+08:30,Wednesday,Summer,New Year,0.1
+14:45,Wednesday,Winter,Christmas,0.1
+01:15,Sunday,Spring,Diwali,0.9
+17:00,Friday,Winter,Christmas,0.1
+21:15,Tuesday,Winter,No Event,0.5
+14:15,Saturday,Fall,Christmas,0.05
+12:00,Saturday,Summer,Christmas,0.015
+05:30,Saturday,Summer,New Year,0.05
+22:00,Friday,Fall,No Event,0.9
+08:15,Thursday,Fall,No Event,0.5
+06:15,Monday,Winter,Christmas,0.1
+11:30,Monday,Spring,Local Festival,0.9
+01:00,Wednesday,Summer,New Year,0.1
+22:15,Wednesday,Spring,Christmas,0.1
+04:45,Sunday,Spring,Christmas,0.05
+01:15,Saturday,Fall,Diwali,0.6
+17:15,Sunday,Spring,Diwali,0.75
+14:30,Saturday,Winter,Local Festival,0.05
+15:45,Wednesday,Fall,New Year,0.1
+04:15,Tuesday,Spring,Wedding,0.8
+00:45,Thursday,Fall,Diwali,0.1
+04:00,Sunday,Winter,Wedding,0.05
+03:15,Thursday,Winter,No Event,0.5
+19:15,Thursday,Spring,Diwali,0.1
+03:00,Thursday,Fall,Diwali,0.9
+01:30,Wednesday,Spring,New Year,0.1
+10:45,Monday,Spring,Local Festival,0.1
+03:30,Wednesday,Fall,Wedding,0.75
+04:30,Thursday,Spring,Diwali,0.1
+15:30,Wednesday,Winter,Diwali,0.1
+08:30,Thursday,Fall,New Year,0.1
+20:00,Friday,Fall,New Year,0.03
+08:30,Saturday,Fall,Local Festival,0.8
+04:30,Monday,Fall,Wedding,0.1
+04:45,Friday,Spring,No Event,0.6
+08:30,Tuesday,Spring,Local Festival,0.1
+07:45,Wednesday,Winter,No Event,0.5
+11:45,Tuesday,Summer,Christmas,0.1
+10:45,Sunday,Summer,Diwali,0.9
+05:45,Wednesday,Winter,Wedding,0.1
+15:00,Saturday,Summer,Local Festival,0.05
+04:00,Friday,Winter,Diwali,0.1
+17:30,Saturday,Spring,Wedding,0.05
+12:15,Sunday,Fall,Wedding,0.05
+16:00,Thursday,Fall,Wedding,0.9
+07:45,Saturday,Spring,Diwali,0.05
+08:45,Saturday,Fall,Local Festival,0.9
+03:00,Thursday,Fall,New Year,0.6
+17:15,Wednesday,Summer,Diwali,0.1
+14:15,Thursday,Spring,Wedding,0.1
+03:15,Friday,Summer,Local Festival,0.1
+09:00,Saturday,Summer,Christmas,0.8
+19:30,Thursday,Fall,No Event,0.75
+16:45,Sunday,Fall,Wedding,0.6
+09:45,Sunday,Spring,Christmas,0.05
+14:30,Saturday,Fall,New Year,0.05
+19:45,Friday,Fall,Wedding,0.8
+22:45,Tuesday,Spring,Christmas,0.1
+03:45,Friday,Fall,Wedding,0.1
+15:15,Monday,Summer,Diwali,0.1
+00:45,Monday,Spring,Local Festival,0.1
+11:00,Monday,Fall,Christmas,0.1
+22:15,Saturday,Winter,Local Festival,0.75
+06:45,Sunday,Spring,Diwali,0.9
+23:45,Wednesday,Spring,Diwali,0.1
+16:15,Sunday,Winter,Local Festival,0.05
+07:30,Wednesday,Fall,Christmas,0.9
+00:30,Wednesday,Fall,Local Festival,0.1
+01:45,Sunday,Spring,Local Festival,0.05
+05:45,Saturday,Spring,No Event,0.75
+03:30,Friday,Fall,Christmas,0.1
+10:30,Wednesday,Fall,No Event,0.8
+07:30,Tuesday,Summer,Wedding,0.8
+18:00,Sunday,Spring,Local Festival,0.05
+11:00,Sunday,Spring,Wedding,0.05
+16:15,Monday,Winter,Christmas,0.1
+01:45,Friday,Summer,Local Festival,0.8
+17:30,Monday,Fall,Wedding,0.1
+14:00,Sunday,Summer,New Year,0.05
+19:45,Sunday,Fall,Diwali,0.6
+07:15,Wednesday,Fall,Local Festival,0.1
+18:15,Friday,Summer,Diwali,0.75
+04:15,Thursday,Spring,No Event,0.6
+17:00,Tuesday,Fall,Wedding,0.1
+23:00,Wednesday,Summer,No Event,0.9
+09:30,Sunday,Winter,Local Festival,0.05
+14:45,Wednesday,Summer,Diwali,0.1
+10:30,Tuesday,Winter,Diwali,0.1
+11:00,Sunday,Fall,Wedding,0.75
+05:30,Tuesday,Summer,Local Festival,0.1
+17:00,Thursday,Summer,New Year,0.1
+23:15,Wednesday,Winter,New Year,0.1
+01:15,Saturday,Summer,Wedding,0.05
+13:45,Wednesday,Summer,Local Festival,0.1
+00:45,Monday,Fall,Wedding,0.75
+23:00,Friday,Summer,Local Festival,0.1
+05:30,Friday,Spring,No Event,0.9
+01:15,Monday,Winter,Wedding,0.8
+07:45,Sunday,Summer,Local Festival,0.05
+04:15,Friday,Winter,New Year,0.1
+03:30,Tuesday,Winter,Local Festival,0.1
+09:45,Friday,Winter,Local Festival,0.75
+23:45,Friday,Summer,Wedding,0.1
+18:00,Monday,Summer,No Event,0.6
+18:15,Sunday,Winter,No Event,0.25
+20:45,Thursday,Spring,No Event,0.9
+01:15,Friday,Winter,No Event,0.5
+15:30,Saturday,Spring,Christmas,0.05
+16:30,Friday,Winter,Wedding,0.1
+02:30,Thursday,Fall,Diwali,0.8
+10:30,Monday,Winter,Wedding,0.1
+04:00,Thursday,Winter,Christmas,0.1
+23:45,Monday,Summer,No Event,0.5
+00:45,Tuesday,Spring,Christmas,0.9
+15:30,Monday,Fall,New Year,0.1
+16:45,Tuesday,Spring,New Year,0.1
+20:00,Tuesday,Fall,Wedding,0.03
+10:00,Monday,Winter,Wedding,0.6
+20:30,Saturday,Summer,Diwali,0.05
+01:00,Wednesday,Summer,Diwali,0.75
+07:45,Monday,Spring,New Year,0.8
+21:15,Friday,Summer,No Event,0.5
+17:15,Saturday,Spring,Christmas,0.75
+08:30,Saturday,Spring,Diwali,0.05
+05:15,Friday,Fall,Local Festival,0.1
+16:00,Wednesday,Spring,Diwali,0.75
+20:45,Saturday,Fall,No Event,0.25
+05:15,Tuesday,Summer,No Event,0.5
+02:30,Wednesday,Spring,Wedding,0.1
+19:00,Sunday,Spring,Christmas,0.015
+00:30,Friday,Winter,No Event,0.9
+02:00,Wednesday,Spring,Diwali,0.1
+14:45,Monday,Spring,Diwali,0.1
+18:45,Wednesday,Winter,New Year,0.8
+21:30,Tuesday,Winter,No Event,0.9
+03:15,Monday,Summer,Local Festival,0.1
+04:15,Thursday,Spring,Wedding,0.1
+18:00,Friday,Summer,Christmas,0.8
+05:30,Friday,Summer,Local Festival,0.1
+18:15,Wednesday,Winter,Wedding,0.1
+20:30,Saturday,Fall,Diwali,0.05
+11:30,Monday,Summer,Local Festival,0.1
+17:00,Thursday,Fall,Wedding,0.1
+11:30,Monday,Spring,Diwali,0.8
+21:30,Friday,Winter,Diwali,0.1
+07:15,Monday,Spring,Diwali,0.9
+06:00,Thursday,Spring,Diwali,0.1
+06:45,Saturday,Winter,Diwali,0.05
+06:00,Wednesday,Spring,New Year,0.6
+18:15,Tuesday,Winter,Local Festival,0.1
+19:15,Monday,Fall,Wedding,0.1
+14:15,Tuesday,Spring,New Year,0.1
+23:15,Friday,Winter,New Year,0.75
+10:00,Wednesday,Summer,No Event,0.6
+06:00,Sunday,Spring,No Event,0.25
+19:15,Wednesday,Fall,No Event,0.5
+11:45,Monday,Winter,Christmas,0.1
+02:15,Saturday,Spring,No Event,0.75
+18:30,Wednesday,Spring,Wedding,0.6
+02:30,Monday,Spring,New Year,0.1
+21:00,Monday,Fall,Wedding,0.9
+05:00,Tuesday,Winter,Local Festival,0.1
+21:15,Wednesday,Summer,No Event,0.5
+11:00,Monday,Summer,Christmas,0.1
+01:30,Tuesday,Summer,Local Festival,0.1
+20:00,Thursday,Winter,Christmas,0.03
+15:45,Sunday,Summer,Local Festival,0.8
+15:45,Tuesday,Fall,New Year,0.1
+00:15,Tuesday,Winter,Wedding,0.1
+18:45,Monday,Spring,Diwali,0.1
+10:15,Friday,Fall,Wedding,0.9
+20:15,Friday,Spring,No Event,0.75
+13:15,Saturday,Summer,Diwali,0.05
+18:30,Friday,Fall,Christmas,0.1
+03:45,Tuesday,Winter,New Year,0.1
+04:15,Saturday,Fall,New Year,0.05
+14:30,Monday,Spring,Christmas,0.1
+22:15,Wednesday,Winter,No Event,0.8
+03:45,Sunday,Fall,Christmas,0.05
+01:15,Sunday,Fall,Local Festival,0.6
+14:00,Tuesday,Fall,No Event,0.75
+11:30,Tuesday,Fall,Diwali,0.1
+11:45,Saturday,Winter,Christmas,0.75
+10:15,Monday,Spring,No Event,0.5
+18:45,Thursday,Fall,Diwali,0.6
+14:45,Tuesday,Winter,Christmas,0.1
+19:00,Thursday,Spring,New Year,0.03
+00:45,Thursday,Fall,Christmas,0.9
+00:15,Friday,Spring,Wedding,0.1
+22:15,Monday,Spring,Christmas,0.1
+14:30,Sunday,Winter,Wedding,0.9
+06:30,Sunday,Spring,Diwali,0.05
+06:30,Thursday,Winter,Christmas,0.9
+19:30,Sunday,Fall,Diwali,0.05
+17:45,Monday,Spring,Diwali,0.1
+01:30,Friday,Spring,No Event,0.5
+15:30,Monday,Summer,Diwali,0.1
+11:15,Tuesday,Fall,Diwali,0.1
+15:30,Thursday,Fall,Christmas,0.1
+02:45,Monday,Summer,Christmas,0.1
+03:00,Sunday,Summer,New Year,0.05
+10:30,Wednesday,Winter,No Event,0.5
+04:00,Monday,Winter,Diwali,0.1
+15:30,Thursday,Spring,No Event,0.5
+20:00,Friday,Spring,Wedding,0.6
+08:45,Sunday,Spring,Diwali,0.05
+21:00,Friday,Spring,No Event,0.75
+01:45,Thursday,Winter,New Year,0.1
+17:00,Sunday,Fall,New Year,0.05
+22:15,Tuesday,Spring,Diwali,0.1
+19:45,Sunday,Fall,Wedding,0.05
+08:45,Tuesday,Spring,New Year,0.9
+06:45,Friday,Summer,New Year,0.1
+23:00,Friday,Spring,Wedding,0.1
+11:30,Thursday,Spring,No Event,0.5
+18:45,Tuesday,Spring,New Year,0.9
+07:15,Friday,Winter,Christmas,0.1
+05:30,Tuesday,Summer,Local Festival,0.9
+03:45,Friday,Spring,Local Festival,0.9
+03:15,Sunday,Spring,New Year,0.05
+18:15,Monday,Fall,No Event,0.5
+17:30,Wednesday,Summer,No Event,0.5
+12:45,Sunday,Spring,Diwali,0.05
+09:00,Saturday,Fall,Christmas,0.8
+07:00,Monday,Fall,No Event,0.5
+16:30,Saturday,Winter,Wedding,0.8
+03:30,Friday,Fall,Christmas,0.9
+11:30,Wednesday,Spring,Local Festival,0.9
+11:15,Wednesday,Winter,Christmas,0.6
+12:45,Friday,Winter,Wedding,0.1
+04:30,Friday,Spring,New Year,0.1
+19:00,Tuesday,Summer,Wedding,0.03
+05:00,Friday,Fall,Wedding,0.9
+15:45,Thursday,Winter,New Year,0.1
+09:00,Friday,Summer,New Year,0.8
+06:30,Thursday,Spring,New Year,0.1
+13:30,Friday,Fall,New Year,0.1
+07:00,Tuesday,Fall,New Year,0.1
+04:45,Thursday,Winter,Wedding,0.1
+06:00,Monday,Fall,Diwali,0.1
+17:15,Thursday,Fall,Diwali,0.1
+15:30,Sunday,Fall,No Event,0.25
+08:45,Tuesday,Fall,Diwali,0.1
+00:15,Saturday,Spring,Local Festival,0.8
+05:15,Thursday,Summer,Diwali,0.1
+23:45,Sunday,Spring,Wedding,0.05
+03:45,Sunday,Spring,New Year,0.05
+04:15,Sunday,Winter,New Year,0.75
+17:00,Friday,Fall,Wedding,0.8
+13:15,Sunday,Spring,Local Festival,0.05
+07:15,Friday,Fall,Diwali,0.9
+11:00,Saturday,Spring,Wedding,0.05
+04:30,Tuesday,Spring,No Event,0.5
+21:30,Wednesday,Winter,New Year,0.1
+08:15,Friday,Summer,Christmas,0.8
+03:00,Sunday,Summer,No Event,0.75
+10:30,Sunday,Spring,Local Festival,0.8
+15:15,Monday,Winter,No Event,0.6
+23:00,Sunday,Fall,Wedding,0.05
+05:15,Tuesday,Fall,Diwali,0.6
+12:45,Thursday,Spring,New Year,0.6
+12:45,Thursday,Summer,Local Festival,0.1
+08:45,Sunday,Winter,Local Festival,0.05
+18:00,Monday,Summer,Christmas,0.75
+04:30,Friday,Fall,No Event,0.75
+09:15,Tuesday,Summer,Christmas,0.1
+17:15,Monday,Fall,Diwali,0.6
+19:30,Friday,Winter,Diwali,0.9
+14:00,Tuesday,Winter,Christmas,0.1
+04:45,Sunday,Spring,New Year,0.05
+02:00,Thursday,Spring,Diwali,0.75
+07:45,Tuesday,Summer,Christmas,0.1
+00:45,Sunday,Winter,No Event,0.6
+12:15,Saturday,Winter,Christmas,0.05
+20:15,Wednesday,Spring,Christmas,0.1
+01:00,Tuesday,Fall,Wedding,0.1
+04:45,Wednesday,Summer,Diwali,0.1
+21:30,Tuesday,Summer,New Year,0.1
+18:30,Wednesday,Spring,New Year,0.1
+09:00,Saturday,Winter,Wedding,0.6
+05:15,Thursday,Spring,Local Festival,0.75
+14:15,Friday,Spring,New Year,0.9
+16:45,Wednesday,Spring,Christmas,0.1
+23:00,Saturday,Spring,Wedding,0.05
+10:45,Wednesday,Fall,No Event,0.5
+08:15,Thursday,Fall,Diwali,0.75
+19:00,Wednesday,Winter,Diwali,0.75
+10:15,Saturday,Spring,Diwali,0.05
+02:00,Sunday,Fall,Christmas,0.05
+23:30,Saturday,Winter,No Event,0.25
+01:30,Monday,Spring,Wedding,0.8
+16:45,Thursday,Summer,Wedding,0.75
+04:30,Sunday,Fall,Diwali,0.6
+23:15,Monday,Winter,No Event,0.5
+07:30,Thursday,Summer,No Event,0.8
+08:30,Sunday,Spring,No Event,0.8
+14:00,Wednesday,Spring,New Year,0.75
+21:00,Sunday,Spring,New Year,0.75
+15:00,Saturday,Fall,Diwali,0.75
+07:30,Monday,Winter,No Event,0.5
+20:30,Wednesday,Summer,Local Festival,0.1
+23:30,Saturday,Winter,No Event,0.25
+13:00,Thursday,Fall,Wedding,0.8
+07:45,Sunday,Winter,Wedding,0.75
+16:15,Saturday,Fall,Diwali,0.75
+14:30,Wednesday,Spring,Local Festival,0.1
+02:15,Monday,Summer,No Event,0.5
+00:15,Monday,Spring,Local Festival,0.1
+16:15,Sunday,Winter,Diwali,0.8
+14:45,Saturday,Spring,Wedding,0.05
+21:45,Wednesday,Summer,Wedding,0.1
+04:00,Tuesday,Spring,New Year,0.1
+23:45,Thursday,Summer,Diwali,0.1
+03:45,Thursday,Summer,Diwali,0.1
+03:45,Wednesday,Spring,No Event,0.5
+11:15,Tuesday,Fall,No Event,0.75
+09:30,Monday,Winter,New Year,0.1
+07:30,Sunday,Fall,Christmas,0.9
+21:45,Friday,Fall,Local Festival,0.1
+00:00,Friday,Spring,Christmas,0.1
+02:30,Sunday,Winter,Christmas,0.05
+21:00,Wednesday,Winter,Diwali,0.1
+00:45,Tuesday,Fall,Local Festival,0.1
+17:30,Tuesday,Spring,Diwali,0.1
+06:15,Thursday,Winter,Local Festival,0.1
+12:15,Monday,Fall,Wedding,0.1
+02:45,Saturday,Winter,Diwali,0.05
+23:30,Tuesday,Spring,Diwali,0.1
+20:00,Sunday,Spring,Diwali,0.015
+18:30,Saturday,Spring,New Year,0.8
+22:45,Friday,Winter,Diwali,0.8
+23:45,Saturday,Summer,No Event,0.75
+16:00,Monday,Winter,No Event,0.5
+11:30,Sunday,Summer,Local Festival,0.75
+22:45,Monday,Spring,Wedding,0.8
+13:00,Saturday,Fall,New Year,0.8
+17:30,Wednesday,Summer,Local Festival,0.1
+00:15,Tuesday,Spring,No Event,0.5
+05:45,Sunday,Spring,New Year,0.05
+00:45,Wednesday,Summer,New Year,0.1
+04:30,Saturday,Fall,Wedding,0.05
+06:15,Tuesday,Spring,New Year,0.6
+18:30,Thursday,Summer,Diwali,0.8
+09:45,Wednesday,Fall,New Year,0.1
+12:15,Wednesday,Fall,Wedding,0.1
+10:30,Saturday,Spring,Local Festival,0.8
+18:30,Friday,Winter,Wedding,0.9
+16:30,Saturday,Winter,Wedding,0.05
+02:45,Wednesday,Spring,No Event,0.5
+16:30,Tuesday,Fall,Diwali,0.1
+06:30,Friday,Spring,No Event,0.9
+13:15,Saturday,Summer,Local Festival,0.8
+16:15,Sunday,Winter,Christmas,0.05
+12:00,Saturday,Summer,Local Festival,0.8
+03:45,Wednesday,Spring,Diwali,0.6
+00:15,Wednesday,Spring,New Year,0.1
